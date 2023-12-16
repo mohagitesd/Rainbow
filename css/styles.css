@@ -1,0 +1,76 @@
+header {
+    margin: 0px;
+    background-image: url(/img/home-bg.jpg);
+    background-size: cover;
+
+}
+
+#navbar {
+    margin: 0px;
+    display: flex;
+
+}
+
+#navbar ul {
+    display: flex;
+    list-style: none;
+
+}
+
+li {
+    padding: 7px;
+
+}
+
+
+
+#container {
+    display: flex;
+
+
+}
+
+#title {
+    margin-top: 150px;
+    margin-left: 140px;
+    width: 600px;
+    height: auto;
+}
+
+#title h5 {
+    color: #7b68ee;
+}
+
+#title h5 span {
+    color: rgb(21, 221, 21);
+}
+
+#title h1 {
+    color: #7b68ee;
+}
+
+#home font {
+    padding-left: 100px;
+    width: 400px;
+}
+
+button {
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 15px;
+    background-color: #7b68ee;
+    border: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    box-shadow: 0 7px 25px rgb(123, 104, 238, 0.25);
+
+}
+
+button:hover {
+    background-color: aliceblue;
+    color: black;
+}
